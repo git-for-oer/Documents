@@ -7,7 +7,7 @@ Github for OER
 
  + Bob Call        FinalsClub
  + Gary E-C        Institute of Education UK (Open University)
- + Michelle O'Sousa Floe
+ + Michelle D'Souza Floe (Inclusive Design Research Centre)
  + Justin
  + jg      josh gay
 
@@ -55,7 +55,7 @@ Josh Gay (FSF): (David)
     Have a platform people can _create_ on, and then distribute wherever
     How can we standardize sharing and organization of OER content
 
-Michelle O'Sousa (Floe): (Eleanor)
+Michelle D'Souza (Floe): (Eleanor)
 
     Teacher with a blind student
     Want to existing content and make it accessible to the blind
